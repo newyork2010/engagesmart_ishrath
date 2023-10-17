@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-27T12:56:39 EDT" name="Default suite" finished-at="2023-09-27T12:57:05 EDT" duration-ms="26604">
+    <groups>
+    </groups>
+    <test started-at="2023-09-27T12:56:39 EDT" name="Default test" finished-at="2023-09-27T12:57:05 EDT" duration-ms="26604">
+      <class name="google.HandleAmazon">
+        <test-method signature="getHandleAmazon()[pri:0, instance:google.HandleAmazon@28dcca0c]" started-at="2023-09-27T12:56:39 EDT" name="getHandleAmazon" finished-at="2023-09-27T12:57:05 EDT" duration-ms="26460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHandleAmazon -->
+      </class> <!-- google.HandleAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
